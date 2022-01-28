@@ -1,0 +1,22 @@
+
+.login-card{
+    width: 50%;
+    box-shadow: 5px 3px 5px 3px grey;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    border-radius: 5px;
+    padding: 5px;
+    width: 25%;
+}
+
+input{
+    padding: 5px;
+    width: 25%;
+}
